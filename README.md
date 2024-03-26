@@ -33,22 +33,26 @@
 **Features of Denier Wrap Reel version 2:**
 -   The machine consists of solidly constructed wheel.
 -   It has more precise traverse mechanism.
--   Wrap reel is fitted with a 16x4 lcd.
+-   Wrap reel is fitted with a 20x4 lcd.
 -   It is powered by a high torque stepper motor.
--   It has a speed control knob to control wheel speed.
--  	Data of measurement is provide on web server.
+-   Data of measurement is provide on web server.
 
 **Components**
 -  Mild steel makes up the basic structure, while acrylic sheets make up the enclosure.
 -  Esp32 is utilized as main control board.
--  The output is shown on a 16x4 LCD.
--  Wheel and traverse mechanisms make use of stepper motors and TMC2209 stepper drivers.
+-  The output is shown on a 20x4 LCD.
+-  Wheel and traverse mechanisms make use of stepper motors and TMC2226 stepper drivers.
 -  Proximity sensor is used to count revolutions.
 ---
 ### Images
 
 <div style="width:60%; margin: auto;">
 
-![Image 5](./img/denier%20v2.jpg)
+![Image 5](./img/1_v2.jpg)
+![Image 6](./img/2_v2.jpg)
+![Image 7](./img/3_v2.jpg)
+![Image 8](./img/4_v2.jpg)
+![Image 9](./img/7_v2.jpg)
+![Image 10](./img/20_v2.jpg)
 
 </div>
